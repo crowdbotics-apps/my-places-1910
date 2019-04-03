@@ -1,0 +1,3 @@
+rootProject.name = 'my_places_1910'
+
+include ':app'
